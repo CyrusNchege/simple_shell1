@@ -3,8 +3,7 @@
 
 /*
  * File: shell.h
- * Auth: Marcrine Musimbi
- *       Lynne Munini
+ * Auth: Cyrus Chege
  */
 
 #include <fcntl.h>
